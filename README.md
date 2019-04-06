@@ -1,4 +1,4 @@
-![](https://i.imgur.com/hWB1XRO.png)
+
 
 # Gatsby Starter : Ck
 
