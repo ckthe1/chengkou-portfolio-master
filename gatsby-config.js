@@ -38,12 +38,12 @@ module.exports = {
         display: 'standalone',
         icons: [
           {
-            src: '/favicons/sun.jpg',
+            src: '/favicons/sunCopy.jpg',
             sizes: '192x192',
             type: 'image/jpg',
           },
           {
-            src: '/favicons/sun.jpg',
+            src: '/favicons/sunCopyTwo.jpg',
             sizes: '512x512',
             type: 'image/jpg',
           },

@@ -46,11 +46,11 @@ const AboutSub = styled.span`
 `
 
 const AboutDesc = styled.p`
-  ${tw`text-grey-light text-lg md:text-xl lg:text-2xl font-sans pt-6 md:pt-12 text-justify`};
+  ${tw`text-grey-light text-lg md:text-xl lg:text-2xl  pt-6 md:pt-12 text-align left`};
 `
-
+// text - justify   font-sans
 const ContactText = styled.p`
-  ${tw`text-grey-light font-sans text-xl md:text-2xl lg:text-3xl`};
+  ${tw`text-grey-light font-sans text-xl md:text-2xl lg:text-3xl `};
 `
 
 const Footer = styled.footer`
@@ -63,7 +63,7 @@ const Index = () => (
     <Parallax pages={5}>
       <Hero offset={0}>
         <BigTitle>
-          Hello, <br /> I'm Pure gold, Mothar Fukaaa.
+          Hello, <br /> I'm Cheng-kou Tongkhuya.
         </BigTitle>
         <Subtitle>Creating noice pure gold experiences for the next generation.</Subtitle>
       </Hero>
@@ -106,16 +106,21 @@ const Index = () => (
         <AboutHero>
           <Avatar src={avatar} alt="John Doe" />
           <AboutSub>
-            The English language can not fully capture the depth and complexity of my thoughts. So I'm incorporating
-            Emoji into my speech to better express myself. Winky face.
+            Being a Full Stack Software Engineer has unified my professional background and educational 
+            experiences into a new and greater level of understanding of technology, from the basic electronic and hardware components 
+            to the highest level of software programing.
           </AboutSub>
         </AboutHero>
         <AboutDesc>
-          You know the way you feel when you see a picture of two otters holding hands? That's how you're gonna feel
-          every day. My mother cried the day I was born because she knew she’d never be prettier than me. You should
-          make me your campaign manager. I was born for politics. I have great hair and I love lying. Captain? The kids
-          want to know where Paulie the Pigeon is. I told them he got sucked up into an airplane engine, is that all
-          right?
+             &nbsp; &nbsp; &nbsp; &nbsp;At the age of nine, I had the opportunity to be introduced to the world of computer programing 
+            language through my older brother’s Oric Atmos computer, which used “Basic” as its primary language. 
+            I used to help my brother  type basic codes to create video games so we could play,  it was very fun. 
+            Now, my programing journey has come full circle, gaining new skills and knowledge each step of the way 
+            from many different fields. It feels like my long life training is finally complete. &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+            &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
+            &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
+            “Then I am a Jedi”, Luke Skywalker (Star Wars Episode V, The Empire Strikes Back, 1980) after returning
+            to complete his training from master Yoda.
         </AboutDesc>
       </About>
       <Contact offset={4}>
@@ -123,8 +128,8 @@ const Index = () => (
           <Title>Get in touch</Title>
           <ContactText>
             Say <a href="mailto:plizNoSp4m@domain.tld">Hi</a> or find me on other platforms:{' '}
-            <a href="www.linkedin.com/in/chengkoutongkhuya">Linkedin</a> &{' '}
-            <a href="https://www.instagram.com/lekoarts.de/">Instagram</a>
+            <a href="https://www.linkedin.com/in/chengkoutongkhuya">Linkedin</a> {' '}
+            {/* <a href="https://www.instagram.com/lekoarts.de/">Instagram</a> */}
           </ContactText>
         </Inner>
         <Footer>

@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-sitemap: https://chengkou.devgit
+sitemap: https://chengkou.dev

@@ -82,9 +82,9 @@ const Head = props => {
       <html lang={config.siteLanguage} />
       <title>{title}</title>
       <link rel="apple-touch-icon" href="/favicons/apple-touch-icon.png" />
-      <link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png" />
-      <link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png" />
-      <meta name="gatsby-starter" content="Gatsby Starter Portfolio Cara" />
+      <link rel="icon" type="image/jpg" sizes="32x32" href="/favicons/sunCopy.jpg" />
+      <link rel="icon" type="image/jpg" sizes="16x16" href="/favicons/sunCopyTwo.jpg" />
+      <meta name="gatsby-starter" content="Gatsby Ck" />
       <link rel="shortcut icon" href="favicon.ico" />
       <meta name="msapplication-TileColor" content={config.backgroundColor} />
       <meta name="msapplication-config" content="browserconfig.xml" />
