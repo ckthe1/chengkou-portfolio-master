@@ -9,7 +9,7 @@ module.exports = {
   siteHeadline: 'Creating marvelous app & blazginly fast websites', // Headline for schema.org JSONLD
   siteUrl: 'https://chengkou.dev', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
-  siteLogo: '/sun.jpg', // Used for SEO and manifest
+  // siteLogo: '/sun.jpg', // Used for SEO and manifest
   siteDescription: 'Playful & Colorful One-Page website with Parallax effect',
   author: 'Ck', // Author for schema.org JSONLD
 
