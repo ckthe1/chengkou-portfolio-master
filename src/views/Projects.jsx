@@ -29,7 +29,7 @@ const Projects = ({ children, offset }) => (
         <SVG icon="arrowUp" hiddenMobile width={16} fill={colors.green} left="20%" top="90%" />
         <SVG icon="triangle" width={12} stroke={colors.white} left="90%" top="30%" />
         <SVG icon="circle" width={16} fill={colors.yellow} left="70%" top="90%" />
-        <SVG icon="triangle" hiddenMobile width={16} stroke={colors.teal} left="18%" top="75%" />
+        <SVG icon="triangle" hiddenMobile width={16} stroke={colors.black} left="18%" top="75%" />
         <SVG icon="circle" width={6} fill={colors.white} left="75%" top="10%" />
         <SVG icon="upDown" hiddenMobile width={8} fill={colors.green} left="45%" top="10%" />
       </UpDownWide>

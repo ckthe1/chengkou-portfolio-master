@@ -63,7 +63,7 @@ const Index = () => (
     <Parallax pages={5}>
       <Hero offset={0}>
         <BigTitle>
-          Hello, <br /> I'm Cheng-kou Tongkhuya.
+          Hello, <br /> I'm Cheng-kou Tongkhuya (Ck).
         </BigTitle>
         <Subtitle>Creating noice pure gold experiences for the next generation.</Subtitle>
       </Hero>
@@ -119,7 +119,7 @@ const Index = () => (
             from many different fields. It feels like my long life training is finally complete. &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
             &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
             &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
-            “Then I am a Jedi”, Luke Skywalker (Star Wars Episode V, The Empire Strikes Back, 1980) after returning
+            “Then I am a Jedi”, Luke Skywalker (Star Wars Episode V, The Empire Strikes Back, 1980) after returning to the Dagobah system
             to complete his training from master Yoda.
         </AboutDesc>
       </About>
