@@ -116,7 +116,7 @@ const Index = () => (
             language through my older brother’s Oric Atmos computer, which used “Basic” as its primary language. 
             I used to help my brother  type basic codes to create video games so we could play,  it was very fun. 
             Now, my programing journey has come full circle, gaining new skills and knowledge each step of the way 
-            from many different fields. It feels like my long life training is finally complete. &nbsp; &nbsp; &nbsp; &nbsp;
+            from many different fields. It feels like my long life training is finally complete. &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
           
             “Then I am a Jedi”, Luke Skywalker (Star Wars Episode V, The Empire Strikes Back, 1980) after returning to the Dagobah system
             to complete his training from master Yoda.
