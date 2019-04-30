@@ -65,7 +65,8 @@ const Index = () => (
         <BigTitle>
           Hello, <br /> I'm Cheng-kou Tongkhuya (Ck).
         </BigTitle>
-        <Subtitle>Creating noice pure gold experiences for the next generation.</Subtitle>
+        <Subtitle>This is what i've created so far, using various technology, such as React, React-redux, Sagas,
+                   Postgres SQL database,  JavaScript, Express, Node.js, and many more.</Subtitle>
       </Hero>
       <Projects offset={1}>
         <Title>Projects</Title>
@@ -90,15 +91,15 @@ const Index = () => (
             link="https://www.behance.net/gallery/43907099/Tomb-Raider"
             bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
           >
-            My other work App.
+            My other Apps.
           </ProjectCard>
-          <ProjectCard
+          {/* <ProjectCard
             title="Eagle"
             link="https://www.behance.net/gallery/38068151/Eagle"
             bg="linear-gradient(to right, #D585FF 0%, #4402af 100%)"
           >
             A fantasy image manipulation relocating the habitat of wild animals.
-          </ProjectCard>
+          </ProjectCard> */}
         </ProjectsWrapper>
       </Projects>
       <About offset={3}>
