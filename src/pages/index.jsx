@@ -65,41 +65,46 @@ const Index = () => (
         <BigTitle>
           Hello, <br /> I'm Cheng-kou Tongkhuya (Ck).
         </BigTitle>
-        <Subtitle>This is what i've created so far, using various technology, such as React, React-redux, Sagas,
+        <Subtitle>This is what I've created so far, using various technology, such as React, React-redux, Sagas,
                    Postgres SQL database,  JavaScript, Express, Node.js, and many more.</Subtitle>
       </Hero>
       <Projects offset={1}>
         <Title>Projects</Title>
         <ProjectsWrapper>
           <ProjectCard
+            title="End In Mind Project"
+            link="https://eim-project.herokuapp.com/#/login"
+            bg="linear-gradient(to right, #D585FF 0%, #4402af 100%)"
+          >
+            This is what I help build for "End in Mind". It is a non-profit organization that ignite discussions
+            about intentional and purposeful living now and through the end of life. This application will help
+            organizers determine how many people are impacted by the organization, by tracking and provide data on attendees,
+            and create events in 1 centralize location. Please visit endinmindproject.org to learn more about the subject or even volunteer
+          </ProjectCard>
+          <ProjectCard
             title="Raf reading log"
             link="https://chengkou-solo-project.herokuapp.com/#/home"
             bg="linear-gradient(to right, #0364af 0%, #0bd8e2 100%)"
           >
             This App was created to help grade school kids to keep records of their daily readings, and help teachers view
-            their students reading logs at a glance or in details if they wanted to.
+            their students reading logs at a glance or in details if they wanted to. (It may tke 30 seconds to load)
           </ProjectCard>
+
           <ProjectCard
             title="the joker app"
             link="https://server-side-cal.herokuapp.com/"
             bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
           >
-            This App was one of the code challenge, I had to create while at Prime Digital Academy. Give it a try.
+            This App was one of the code challenge, I created while at Prime Digital Academy, Give it a try. 
           </ProjectCard>
           <ProjectCard
             title="the App of ck"
-            link="https://www.behance.net/gallery/43907099/Tomb-Raider"
+            link="https://saga-portfolio.herokuapp.com/"
             bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
           >
-            My other Apps.
+            My Portfolio Apps. You can notice the progression of my work throughout my time at Prime, I can make it look better now but that's not the point
           </ProjectCard>
-          {/* <ProjectCard
-            title="Eagle"
-            link="https://www.behance.net/gallery/38068151/Eagle"
-            bg="linear-gradient(to right, #D585FF 0%, #4402af 100%)"
-          >
-            A fantasy image manipulation relocating the habitat of wild animals.
-          </ProjectCard> */}
+
         </ProjectsWrapper>
       </Projects>
       <About offset={3}>
