@@ -77,9 +77,9 @@ const Index = () => (
             bg="linear-gradient(to right, #D585FF 0%, #4402af 100%)"
           >
             This is what I help build for "End in Mind". It is a non-profit organization that ignite discussions
-            about intentional and purposeful living now and through the end of life. This application will help
-            organizers determine how many people are impacted by the organization, by tracking and provide data on attendees,
-            and create events in 1 centralize location. Please visit endinmindproject.org to learn more about the subject or even volunteer
+            about intentional and purposeful living now and through the end of life. This application helps
+            organizers determine how many people are impacted by the organization, by tracking and providing data on attendees.
+            Please visit endinmindproject.org to learn more about the subject or even volunteer.
           </ProjectCard>
           <ProjectCard
             title="Raf reading log"
