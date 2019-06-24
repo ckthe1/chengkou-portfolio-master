@@ -96,7 +96,7 @@ const Index = () => (
             bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
           >
             This is a Full Stack Calculator using React, React-Redux, Sagas, Postgres SQL for database. It displays
-            a list of the last 10 calculations starting from the newest. (However the works is still in progress)
+            a list of the last 10 calculations starting from the newest. (However it is 99% done, and is still a work in progress)
           </ProjectCard>
           <ProjectCard
             title="the App of Ck"
