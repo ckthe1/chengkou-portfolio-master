@@ -91,7 +91,7 @@ const Index = () => (
           </ProjectCard>
 
           <ProjectCard
-            title="Database's Calculator app"
+            title="Calculator app with database"
             link="https://sezzle-calc.herokuapp.com/"
             bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
           >
@@ -99,7 +99,7 @@ const Index = () => (
             a list of the last 10 calculations starting from the newest. (However the works is still in progress)
           </ProjectCard>
           <ProjectCard
-            title="the App of ck"
+            title="the App of Ck"
             link="https://saga-portfolio.herokuapp.com/"
             bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
           >
