@@ -92,7 +92,7 @@ const Index = () => (
 
           <ProjectCard
             title="Calculator app with database"
-            link="https://sezzle-calc.herokuapp.com/"
+            link="https://database-calc.herokuapp.com/"
             bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
           >
             This is a Full Stack Calculator using React, React-Redux, Sagas, Postgres SQL for database. It displays
