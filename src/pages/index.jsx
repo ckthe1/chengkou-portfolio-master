@@ -91,11 +91,12 @@ const Index = () => (
           </ProjectCard>
 
           <ProjectCard
-            title="the joker app"
-            link="https://server-side-cal.herokuapp.com/"
+            title="Database's Calculator app"
+            link="https://sezzle-calc.herokuapp.com/"
             bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
           >
-            This App was one of the code challenge, I created while at Prime Digital Academy, Give it a try. 
+            This is a Full Stack Calculator using React, React-Redux, Sagas, Postgres SQL for database. It displays
+            a list of the last 10 calculations starting from the newest. (However the works is still in progress)
           </ProjectCard>
           <ProjectCard
             title="the App of ck"
