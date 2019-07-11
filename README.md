@@ -5,19 +5,11 @@
 A portfolio starter for [Gatsby](https://www.gatsbyjs.org/). The target audience are designers and photographers.
 
 
-
-
-
-
-
 - TailwindCSS & styled-components
 - React Spring
 - Playful & Colorful One-Page website with Parallax effect
 
 Thanks to [@bradlc](https://github.com/bradlc)’s work on [babel-plugin-tailwind-components](https://github.com/bradlc/babel-plugin-tailwind-components), we can easily get the power of Tailwind without the stylesheet bloat by passing Tailwind classes into styled-components with **Babel macros** 🎉.
-
-
-
 
 
 ## Features
