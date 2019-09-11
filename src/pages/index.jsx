@@ -88,6 +88,8 @@ const Index = () => (
           >
             This App was created to help grade school kids to keep records of their daily readings, and help teachers view
             their students reading logs at a glance or in details if they wanted to. (It may tke 30 seconds to load)
+            Register as a student and enter some books to test it out. you can also log in as Ms O'brien with the password:123456
+            to enter the teacher's page and see what the teacher can view.
           </ProjectCard>
 
           <ProjectCard
